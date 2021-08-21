@@ -69,7 +69,7 @@ To dynamically and quickly create a team HTML page, Inquirer NPM was utilized to
 
 ## Questions
 
-- \*[Email](awal.mirza2016@gmail.com)
+- \*[Email](awal3512@gmail.com)
 - \*[GitHub Profile](https://github.com/mirzadev)
 
 ## License
