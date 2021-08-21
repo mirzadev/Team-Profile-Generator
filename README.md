@@ -71,7 +71,6 @@ To dynamically and quickly create a team HTML page, Inquirer NPM was utilized to
 
 - [Email](awal.mirza2016@gmail.com)
 - [GitHub Profile](https://github.com/mirzadev)
-- [GitHub Repository](https://github.com/Kay0s/https://github.com/mirzadev/Team-Profile-Generator)
 
 ## License
 
@@ -85,4 +84,3 @@ Software.
 _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS_
 **OR**
 _COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
-# Team_Profile_Repository
