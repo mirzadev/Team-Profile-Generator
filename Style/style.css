@@ -1,0 +1,28 @@
+#main-heading{
+    background: teal;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.text-center{
+    font-weight: bold;
+    font-size: 100px;
+}
+.card-header{
+    background: rgb(92, 92, 241);
+    color: white;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card-body{
+    background: rgb(209, 168, 168);
+}
+.list-group{
+    background: rgb(182, 223, 120);
+}
+#team-picture{
+    align-items: center;
+    width: 100%;
+}
+#team-logo{
+    margin-top: -1%;
+}
